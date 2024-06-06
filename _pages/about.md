@@ -36,9 +36,10 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
  <ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+[<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
+[<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
+[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
+[<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]</div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
