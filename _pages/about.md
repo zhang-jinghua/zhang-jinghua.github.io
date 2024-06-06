@@ -57,7 +57,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 # 🌏 Visitors
 <div style="clear: both;">
-<div style="clear: both; height: 200px;width: 200px; margin-left: 350px;"> 
+<div style="clear: both; height: 200px;width: 200px; margin-left: 500px;"> 
 <div class="clustrmapsection">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SuLyV4Xva0JUNvsyOXixmlE2AQ-eoOTvUGmnHsFCjjo"></script>
 </div>
