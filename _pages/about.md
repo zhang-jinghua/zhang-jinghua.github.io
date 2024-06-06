@@ -112,9 +112,29 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Service
+- Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font><br/ >
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font><br/ >
+- Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font><br/ >
+- Reviewer of IEEE Access <font color="#A9A9A9">(published by IEEE)</font><br/ >
+- Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font><br/ >
+- Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font><br/ >
+- Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font><br/ >
+- Reviewer of Engineering Applications of Artificial Intelligence <font color="#A9A9A9">(published by Elsevier)</font><br/ >	
+- Reviewer of Intelligent Medicine <font color="#A9A9A9">(published by Elsevier)</font><br/ >	
+- Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font><br/ >	
+- Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font><br/ >	
+- Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font><br/ >
+- Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font><br/ >
+- Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font><br/ >
+- Reviewer of Evolving Systems <font color="#A9A9A9">(published by Springer)</font><br/ >	
+- Reviewer of Frontiers in Microbiology <font color="#A9A9A9">(published by Frontiers)</font><br/ >
+- Reviewer of Frontiers in Human Neuroscience <font color="#A9A9A9">(published by Frontiers)</font><br/ >	
+- Reviewer of Frontiers in Psychiatry <font color="#A9A9A9">(published by Frontiers)</font><br/ >	
+- Reviewer of BioMed Research International <font color="#A9A9A9">(published by Hindawi)</font><br/ >
+- Reviewer of Computational and Mathematical Methods in Medicine <font color="#A9A9A9">(published by Hindawi)</font><br/ >	
+- Reviewer of Computational Intelligence and Neuroscience <font color="#A9A9A9">(published by Hindawi)</font><br/ >	
+- Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font><br/ >	
 
 # 🌏 Visitors
 <div style="clear: both;">
