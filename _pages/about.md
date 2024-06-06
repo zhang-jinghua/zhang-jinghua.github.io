@@ -149,7 +149,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
 
 # 🌏 Visitors
-<div style="clear: both; height: 200px;width: 200px;"> 
+<div style="clear: both; height: 200px; width: 200px; margin: auto; display: block;">
 <div class="clustrmapsection">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SuLyV4Xva0JUNvsyOXixmlE2AQ-eoOTvUGmnHsFCjjo"></script>
 </div>
