@@ -57,3 +57,12 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div style="clear: both;">
+<div style="clear: both; height: 200px;width: 200px; margin-left: 290px;"> 
+<div class="clustrmapsection">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SuLyV4Xva0JUNvsyOXixmlE2AQ-eoOTvUGmnHsFCjjo"></script>
+</div>
+</div>
