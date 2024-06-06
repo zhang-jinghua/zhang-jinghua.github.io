@@ -35,7 +35,6 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 <ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
  in <i>Pattern Recognition</i>, 2021 <br />
-
 [<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
 [<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
 [<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
@@ -59,18 +58,16 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
+[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
 
-<ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
- in <i>Pattern Recognition</i>, 2021 <br />
-
-[<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
-[<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
-[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
-[<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]
+<ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
+  in <i>BioMed Research International</i>, 2020 <br />
+[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
+[<a href="papers/BMRI2020/555.bib">Bibtex</a>]
+[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
 
 </div>
 </div>
