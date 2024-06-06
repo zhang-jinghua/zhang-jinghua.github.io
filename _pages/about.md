@@ -110,7 +110,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Academic Service
+# 🔍 Academic Service
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
