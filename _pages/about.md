@@ -34,13 +34,14 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 [LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
 
- <ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek
+<ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
+ in <i>Pattern Recognition</i>, 2021 <br />
 
 [<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
 [<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
 [<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
 [<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
