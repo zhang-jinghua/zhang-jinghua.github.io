@@ -32,9 +32,9 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ <ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,7 +57,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 # 🌏 Visitors
 <div style="clear: both;">
-<div style="clear: both; height: 200px;width: 200px; margin-left: 500px;"> 
+<div style="clear: both; height: 200px;width: 200px; margin-left: 400px;"> 
 <div class="clustrmapsection">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SuLyV4Xva0JUNvsyOXixmlE2AQ-eoOTvUGmnHsFCjjo"></script>
 </div>
