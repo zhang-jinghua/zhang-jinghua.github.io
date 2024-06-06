@@ -48,7 +48,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIRE 2022</div><img src='papers/AIRE2022/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
+[Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://link.springer.com/article/10.1007/s10462-022-10192-7)
 
 <ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
  in <i>Pattern Recognition</i>, 2021 <br />
@@ -63,7 +63,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
+[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/4621403)
 
 <ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
   in <i>BioMed Research International</i>, 2020 <br />
@@ -77,7 +77,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning for Liver Cancer Histopathology Image Analysis: A Comprehensive Survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
+[Deep Learning for Liver Cancer Histopathology Image Analysis: A Comprehensive Survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197624005943)
 
 Haoyang Jiang, Yimin Yin, <ins>Jinghua Zhang</ins>*, Wanxia Deng, Chen Li<br />
 in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
