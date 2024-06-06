@@ -23,7 +23,9 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 # 🔥 News
 - *2024.04.08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03.18*: &nbsp;🎉🎉 One paper enters the top 0.1% of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
+- *2024.03.18*: &nbsp;🎉🎉 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+
 
 # 📝 Publications 
 
