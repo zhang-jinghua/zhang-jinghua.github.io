@@ -28,9 +28,8 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+;; <div class='paper-box-text' markdown="1">
 
 [LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
 
@@ -43,7 +42,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 [<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]
 
 </div>
-</div>
+;; </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
