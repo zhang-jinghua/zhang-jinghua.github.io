@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinghua Zhang" \\ "(张敬华)"
   avatar           : "images/jinghua.jpg"
-  university       : "Nationa University of Defense Technology"
+  bio              : "Nationa University of Defense Technology"
   location         : "Oulu, Finland"
   employer         :
   pubmed           : 
