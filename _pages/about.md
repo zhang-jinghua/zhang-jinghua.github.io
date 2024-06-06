@@ -86,6 +86,20 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 </div>
 
+# 📄 Patents
+ - 李晨，<ins>张敬华</ins>，李宏，<strong>一种多尺度串行的卷积深度学习显微图像分割方法</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
+ - 胡德文，<ins>张敬华</ins>，刘丽，<strong>结构化平面物体识别模型训练及识别方法</strong>, 202310381173.1, <a href='patents/2.pdf'>[已受理]</a>
+ - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已受理]</a>
+
+# 💻 Software Copyrights
+- 李晨，<ins>张敬华</ins>，许宁，赵文伟，孙昌浩，<strong>图像预处理教学演示软件V1.0</strong>, 2019SR0102261, <a href='softwareCopyright/2019SR0102261.png'>[已登记]</a> 
+- 李晨，<ins>张敬华</ins>，许宁，<strong>计算机图像分割评价指标计算及其可视化软件V1.0</strong>, 2019SR0692603, <a href='softwareCopyright/2019SR0692603.png'>[已登记]</a> 
+- 李晨，<ins>张敬华</ins>，李宏，<strong>基于卷积神经网络U-Net的环境微生物显微图像分割软件1.0</strong>, 2019SR0831957, <a href='softwareCopyright/2019SR0831957.png'>[已登记]</a> 
+- 李晨，<ins>张敬华</ins>，李宏，<strong>基于VGG16迁移学习的环境微生物显微图像像素块分类软件V1.0</strong>, 2019SR1130819, <a href='softwareCopyright/2019SR1130819.png'>[已登记]</a> 
+- 李晨，<ins>张敬华</ins>，李宏，<strong>基于卷积神经网络mU-B1-Net的环境微生物品微图像分割软件V1.0</strong>, 2019SR1130829, <a href='softwareCopyright/2019SR1130829.png'>[已登记]</a> 
+- 李晨，<ins>张敬华</ins>，<strong>睿仟基于多模型迁移学习的宫颈癌细胞分类软件[简称：宫颈癌细胞分类软件]V1.0.0</strong>, 2020SR1250001, <a href='softwareCopyright/2020SR1250001.jpg'>[已登记]</a> 
+
+
 # 🎖 Honors and Awards
 - 2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a> 
 - 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
@@ -106,9 +120,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - 2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a> 
 - 2015/10/01: Excellent Student Cadre of HFU 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🔍 Academic Service
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
