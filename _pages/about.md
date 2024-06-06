@@ -28,7 +28,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='papers/PR2021/LCUNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
@@ -44,14 +44,13 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/pr2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIRE 2022</div><img src='papers/AIRE2022/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
+[Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000728)
 
 <ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
  in <i>Pattern Recognition</i>, 2021 <br />
-
 [<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
 [<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
 [<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
