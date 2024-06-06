@@ -22,9 +22,9 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 
 # 🔥 News
-- *2024/04/08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
-- *2024/03/18*: &nbsp;🎉🎉 One paper enters the top 0.1% of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
-- *2024/03/18*: &nbsp;🎉🎉 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+- 2024/04/08: &nbsp;🎉🎉 One paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
+- 2024/03/18: &nbsp;🎉🎉 One paper enters the top 0.1% of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
+- 2024/03/18: &nbsp;🎉🎉 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 
 
 # 📝 Publications 
@@ -87,27 +87,25 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 
 # 🎖 Honors and Awards
-<ul>
-  <li><strong>2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a></strong></li>
-  <li><strong>2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a></strong></li>
-  <li><strong>2021/12/20: <a href="contests/NEU.jpeg">Outstanding Master's Thesis of Northeastern University</a></strong></li>
-  <li><strong>2021/12/01: <a href="contests/nudt.jpg">Excellent Freshmen Scholarship of NUDT (1st Class)</a></strong></li>
-  <li><strong>2021/01/11: <a href="contests/NEU6.jpg">Outstanding Graduate of NEU</a></strong></li>
-  <li><strong>2020/12/25: <a href="contests/SUZHOU.jpg">Suzhou Industrial Park Scholarship</a></strong></li>
-  <li><strong>2020/11/01: <a href="contests/NEU5.jpg">Merit Student of NEU</a></strong></li>
-  <li><strong>2020/10/01: <a href="contests/NEU3.jpg">The First Prize Scholarship of NEU</a></strong></li>
-  <li><strong>2019/10/01: <a href="contests/NEU4.jpg">The First Prize Scholarship of NEU</a></strong></li>
-  <li><strong>2018/05/01: <a href="contests/HFU1.jpg">Outstanding Graduate of HFU</a></strong></li>
-  <li><strong>2018/04/01: <a href="contests/HFU2.jpg">Outstanding Graduate of Anhui Province</a></strong></li>
-  <li><strong>2017/12/01: <a href="contests/HFU3.jpg">The First Prize Scholarship of HFU</a></strong></li>
-  <li><strong>2017/12/01: Merit Student of HFU</strong></li>
-  <li><strong>2016/12/01: Excellent Student Cadre of HFU</strong></li>
-  <li><strong>2016/12/01: Merit Student of HFU</strong></li>
-  <li><strong>2016/11/01: <a href="contests/HFU4.jpg">National Encouragement Scholarship</a></strong></li>
-  <li><strong>2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a></strong></li>
-  <li><strong>2015/10/01: Excellent Student Cadre of HFU</strong></li>
+- 2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a> 
+- 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
+- 2021/12/20: <a href="contests/NEU.jpeg">Outstanding Master's Thesis of Northeastern University</a> 
+- 2021/12/01: <a href="contests/nudt.jpg">Excellent Freshmen Scholarship of NUDT (1st Class)</a> 
+- 2021/01/11: <a href="contests/NEU6.jpg">Outstanding Graduate of NEU</a> 
+- 2020/12/25: <a href="contests/SUZHOU.jpg">Suzhou Industrial Park Scholarship</a> 
+- 2020/11/01: <a href="contests/NEU5.jpg">Merit Student of NEU</a> 
+- 2020/10/01: <a href="contests/NEU3.jpg">The First Prize Scholarship of NEU</a> 
+- 2019/10/01: <a href="contests/NEU4.jpg">The First Prize Scholarship of NEU</a> 
+- 2018/05/01: <a href="contests/HFU1.jpg">Outstanding Graduate of HFU</a> 
+- 2018/04/01: <a href="contests/HFU2.jpg">Outstanding Graduate of Anhui Province</a> 
+- 2017/12/01: <a href="contests/HFU3.jpg">The First Prize Scholarship of HFU</a> 
+- 2017/12/01: Merit Student of HFU 
+- 2016/12/01: Excellent Student Cadre of HFU 
+- 2016/12/01: Merit Student of HFU 
+- 2016/11/01: <a href="contests/HFU4.jpg">National Encouragement Scholarship</a> 
+- 2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a> 
+- 2015/10/01: Excellent Student Cadre of HFU 
 
-</ul>
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
