@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinghua Zhang's Page"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+#description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "zhang-jinghua/zhang-jinghua.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinghua Zhang (张敬华)"
   avatar           : "images/jinghua.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Nationa University of Defense Technology"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
