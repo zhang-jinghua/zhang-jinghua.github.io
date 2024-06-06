@@ -86,8 +86,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 <ul>
   <li><strong>2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a></strong></li>
