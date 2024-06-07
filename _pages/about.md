@@ -52,8 +52,8 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 [Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://link.springer.com/article/10.1007/s10462-022-10192-7)
 
-<ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
- in <i>Pattern Recognition</i>, 2021 <br />
+<ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek<br />
+in <i>Artificial Intelligence Review</i>, 2022.<br />
 [<a href="papers/AIRE2022/2022-Artificial Intelligence Review-Applications of artificial neural networks in microorganism.pdf">Paper</a>]
 [<a href="papers/AIRE2022/1111.bib">Bibtex</a>]
 [<a href="papers/AIRE2022/highcite.jpg">ESI Hot Paper and Highly Cited Paper</a>]
