@@ -31,7 +31,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 
 # 📝 Publications 
-(* corresponding author; ✝ co-first author)
+(* corresponding author)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='papers/PR2021/LCUNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
