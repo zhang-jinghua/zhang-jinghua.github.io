@@ -25,7 +25,7 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 # 🗞️ News
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
-- 2024/03/18: &nbsp;🎉🎉🎉 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+- 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 - 2022/06/02: &nbsp;🎊🎊🎊 Awarded the <a href="http://www.graduate.neu.edu.cn/2022/0613/c7823a215473/page.htm">Outstanding Master's Thesis of Liaoning Province. 
 - 2021/12/20: &nbsp;🎉🎉🎉 Awarded the <a href="http://www.bmie.neu.edu.cn/2021/1220/c563a208664/page.htm">Outstanding Master's Thesis of Northeastern University. 
 
