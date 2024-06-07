@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinghua Zhang"
+  name             : "Jinghua Zhang<br><font color="#A9A9A9">（张敬华）</font> "
   avatar           : "images/jinghua.jpeg"
   bio              : "- National University of Defense Technology<br> - University of Oulu"
   location         : "Oulu, Finland"
