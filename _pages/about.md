@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Since September 2021, I have been studying for a Ph.D. degree in Control Science and Engineering at the College of Intelligence Science and Technology of <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a> under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
+🥹Since September 2021, I have been studying for a Ph.D. degree in Control Science and Engineering at the College of Intelligence Science and Technology of <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a> under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
 In addition, I have been working as a visiting researcher at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, since November 2022. Prior to that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018, and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
 
 
-# 🔥 News
+# 🗞️ News
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
-- 2024/03/18: &nbsp;🎊🎊🎊 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
+- 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
 - 2024/03/18: &nbsp;🎉🎉🎉 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 - 2022/06/02: &nbsp;🎊🎊🎊 Awarded the <a href="http://www.graduate.neu.edu.cn/2022/0613/c7823a215473/page.htm">Outstanding Master's Thesis of Liaoning Province. 
 - 2021/12/20: &nbsp;🎉🎉🎉 Awarded the <a href="http://www.bmie.neu.edu.cn/2021/1220/c563a208664/page.htm">Outstanding Master's Thesis of Northeastern University. 
