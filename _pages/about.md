@@ -54,10 +54,9 @@ In addition, I have been working as a visiting researcher at the  <a href="https
 
 <ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
  in <i>Pattern Recognition</i>, 2021 <br />
-[<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
-[<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
-[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
-[<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]
+[<a href="papers/AIRE2022/2022-Artificial Intelligence Review-Applications of artificial neural networks in microorganism.pdf">Paper</a>]
+[<a href="papers/AIRE2022/1111.bib">Bibtex</a>]
+[<a href="papers/AIRE2022/highcite.jpg">ESI Hot Paper and Highly Cited Paper</a>]
 
 </div>
 </div>
