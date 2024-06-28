@@ -22,7 +22,7 @@ Since September 2021, I have been studying for a Ph.D. degree in Control Science
 In addition, I have been working as a visiting researcher at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, since November 2022. Prior to that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018, and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
 
 
-# 🗞️ News
+# 🔥 News
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
 - 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
