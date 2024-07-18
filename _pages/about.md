@@ -88,7 +88,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 </div>
 
-# 🔍 Papers under Review
+# 📌 Papers under Review
  - <ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu<strong>Few-shot Class-incremental Learning for Retinal Disease Recognition</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
  - 胡德文，<ins>张敬华</ins>，刘丽，<strong>结构化平面物体识别模型训练及识别方法</strong>, 202310381173.1, <a href='patents/2.pdf'>[已受理]</a>
  - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已受理]</a>
@@ -128,7 +128,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - 2015/10/01: Excellent Student Cadre of HFU 
 
 
-# 🕵️‍♂️ Academic Service
+# 🔍 Academic Service
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
