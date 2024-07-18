@@ -88,12 +88,12 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 </div>
 
-# 📄 Papers under Review
+# 🗞️ Papers under Review
  - 李晨，<ins>张敬华</ins>，李宏，<strong>一种多尺度串行的卷积深度学习显微图像分割方法</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
  - 胡德文，<ins>张敬华</ins>，刘丽，<strong>结构化平面物体识别模型训练及识别方法</strong>, 202310381173.1, <a href='patents/2.pdf'>[已受理]</a>
  - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已受理]</a>
 
- # 📄 Patents
+# 📄 Patents
  - 李晨，<ins>张敬华</ins>，李宏，<strong>一种多尺度串行的卷积深度学习显微图像分割方法</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
  - 胡德文，<ins>张敬华</ins>，刘丽，<strong>结构化平面物体识别模型训练及识别方法</strong>, 202310381173.1, <a href='patents/2.pdf'>[已受理]</a>
  - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已受理]</a>
