@@ -7,6 +7,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Papers under Review"
+    url: "/#-papers-under-review"
+
   - title: "Patents"
     url: "/#-patents"
 
