@@ -144,6 +144,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - Reviewer of Intelligent Medicine <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
@@ -165,5 +166,5 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on June 7, 2024.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on August 7, 2024.</a></font></p>
 </div>
