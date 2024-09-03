@@ -145,6 +145,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Biomedical Technology <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
