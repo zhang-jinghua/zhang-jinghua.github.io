@@ -33,7 +33,7 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 
 # 📝 Publications 
 (* corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Few-shot Class-incremental Learning for Retinal Disease Recognition
