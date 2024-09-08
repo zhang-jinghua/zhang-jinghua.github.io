@@ -105,7 +105,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 # 📌 Papers under Review
  - <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu, <strong>Few-shot Class-incremental Learning: A Survey</strong>, IEEE TPAMI, Major Revision
  - <ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu, <strong>A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition</strong>, IEEE TNNLS,  Major Revision
- - <ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu, <strong>Few-shot Class-incremental Learning for Retinal Disease Recognition</strong>, IEEE JBHI, Major Revision
  - <ins>Jinghua Zhang</ins>,  Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
  - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Under Review
  - Yimin Yin, Siliang He, Renye Zhang, Hongli Chang, <ins>Jinghua Zhang</ins>*, <strong>Deep Learning for Iris Recognition: A Review</strong>, NCAA, Major Revision
