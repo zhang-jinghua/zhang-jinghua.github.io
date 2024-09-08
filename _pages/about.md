@@ -39,7 +39,7 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 [Few-shot Class-incremental Learning for Retinal Disease Recognition]
 
 <ins>Jinghua Zhang</ins>, , Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
- in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2021 <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
 [<a Accepted for publication</a>]
 
 
