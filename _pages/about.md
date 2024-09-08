@@ -23,6 +23,7 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 
 
 # 🔥 News
+- 2024/09/08: &nbsp;🥳🥳🥳 One paper is accepted by IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
 - 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
@@ -32,6 +33,19 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 
 # 📝 Publications 
 (* corresponding author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='papers/PR2021/LCUNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Class-incremental Learning for Retinal Disease Recognition]
+
+<ins>Jinghua Zhang</ins>, , Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2021 <br />
+[<a Accepted for publication</a>]
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='papers/PR2021/LCUNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
