@@ -40,6 +40,7 @@ Few-shot Class-incremental Learning for Retinal Disease Recognition
 
 <ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
+[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
 [Accepted for publication]
 
 
@@ -180,5 +181,5 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on August 22, 2024.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Sep. 9, 2024.</a></font></p>
 </div>
