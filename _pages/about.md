@@ -42,7 +42,6 @@ In addition, I have been working as a visiting researcher collaborating with <a 
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
 [<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
 [<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
-[Accepted for publication]
 
 
 </div>
