@@ -23,7 +23,7 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 
 
 # 🔥 News
-- 2024/09/08: &nbsp;🥳🥳🥳 One paper is accepted by IEEE Journal of Biomedical and Health Informatics. 
+- 2024/09/08: &nbsp;🥳🥳🥳 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
 - 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
@@ -36,11 +36,12 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Few-shot Class-incremental Learning for Retinal Disease Recognition
+[Few-shot Class-incremental Learning for Retinal Disease Recognition](https://ieeexplore.ieee.org/document/10684127)
 
 <ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
 [<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
+[<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
 [Accepted for publication]
 
 
