@@ -33,16 +33,16 @@ In addition, I have been working as a visiting researcher collaborating with <a 
 
 # 📝 Publications 
 (* corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-shot Class-incremental Learning for Retinal Disease Recognition](https://ieeexplore.ieee.org/document/10684127)
+[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/4621403)
 
-<ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
- in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
-[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
-[<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
-
+<ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
+  in <i>BioMed Research International</i>, 2020 <br />
+[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
+[<a href="papers/BMRI2020/555.bib">Bibtex</a>]
+[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
 
 </div>
 </div>
@@ -76,19 +76,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/4621403)
-
-<ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
-  in <i>BioMed Research International</i>, 2020 <br />
-[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
-[<a href="papers/BMRI2020/555.bib">Bibtex</a>]
-[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,6 +87,20 @@ Haoyang Jiang, Yimin Yin, <ins>Jinghua Zhang</ins>*, Wanxia Deng, Chen Li<br />
 in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 [<a href="papers/EAAI2024/Paper.pdf">Paper</a>]
 [<a href="papers/EAAI2024/S0952197624005943.bib">Bibtex</a>]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Class-incremental Learning for Retinal Disease Recognition](https://ieeexplore.ieee.org/document/10684127)
+
+<ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
+[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
+[<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
+
 
 </div>
 </div>
