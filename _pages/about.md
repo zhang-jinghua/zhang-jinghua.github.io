@@ -21,29 +21,6 @@ redirect_from:
 Since September 2021, I have been studying for a Ph.D. degree in Control Science and Engineering at the College of Intelligence Science and Technology of <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a> under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
 In addition, from 2022 to 2024, I worked as a visiting researcher collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a> at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland. Before that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
 
-# 👨‍🎓 Team Members
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>Haoyang Jiang</strong>
-  </div>
-
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong> (时间)</strong><br>研究方向或项目描述</p>
-  </div>
-
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>学生姓名 (时间)</strong><br>研究方向或项目描述</p>
-  </div>
-
-</div>
-
-
-
 # 🔥 News
 - 2024/09/08: &nbsp;🥳🥳🥳 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
@@ -147,6 +124,27 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - 李晨，<ins>张敬华</ins>，李宏，<strong>基于VGG16迁移学习的环境微生物显微图像像素块分类软件V1.0</strong>, 2019SR1130819, <a href='softwareCopyright/2019SR1130819.png'>[已登记]</a> 
 - 李晨，<ins>张敬华</ins>，李宏，<strong>基于卷积神经网络mU-B1-Net的环境微生物品微图像分割软件V1.0</strong>, 2019SR1130829, <a href='softwareCopyright/2019SR1130829.png'>[已登记]</a> 
 - 李晨，<ins>张敬华</ins>，<strong>睿仟基于多模型迁移学习的宫颈癌细胞分类软件[简称：宫颈癌细胞分类软件]V1.0.0</strong>, 2020SR1250001, <a href='softwareCopyright/2020SR1250001.jpg'>[已登记]</a> 
+
+# 👨‍🎓 Team Members
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
+    <p><strong>Haoyang Jiang</strong>
+  </div>
+
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
+    <p><strong> (时间)</strong><br>研究方向或项目描述</p>
+  </div>
+
+  <div style="flex: 1; max-width: 300px; text-align: center;">
+    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
+    <p><strong>学生姓名 (时间)</strong><br>研究方向或项目描述</p>
+  </div>
+
+</div>
 
 
 # 🎖 Honors and Awards
