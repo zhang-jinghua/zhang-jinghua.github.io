@@ -127,26 +127,25 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 
 # 👨‍🎓 Team Members
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
 
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>Haoyang Jiang</strong>
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Haoyang Jiang</strong><br>Role or Description</p>
   </div>
 
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>Haoyang Jiang</strong>
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.png" alt="Member 2" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Member 2</strong><br>Role or Description</p>
   </div>
 
-  <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>Haoyang Jiang</strong>
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.png" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Member 3</strong><br>Role or Description</p>
   </div>
 
 </div>
-</div>
+
 
 
 # 🎖 Honors and Awards
