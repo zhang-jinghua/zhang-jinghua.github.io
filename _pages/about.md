@@ -200,7 +200,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <p><strong>Yule Wang</strong><br>Bachelor Student</p>
   </div>
 
-
 </div>
 
 
