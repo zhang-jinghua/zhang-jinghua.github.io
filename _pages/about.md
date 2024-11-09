@@ -135,14 +135,19 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
   </div>
 
   <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong> (时间)</strong><br>研究方向或项目描述</p>
+    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
+    <p><strong>Haoyang Jiang</strong>
   </div>
 
   <div style="flex: 1; max-width: 300px; text-align: center;">
-    <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
-    <p><strong>学生姓名 (时间)</strong><br>研究方向或项目描述</p>
+    <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
+    <p><strong>Haoyang Jiang</strong>
   </div>
+
+  ;; <div style="flex: 1; max-width: 300px; text-align: center;">
+  ;;   <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
+  ;;   <p><strong>学生姓名 (时间)</strong><br>研究方向或项目描述</p>
+  ;; </div>
 
 </div>
 
