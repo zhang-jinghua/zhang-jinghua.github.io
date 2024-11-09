@@ -145,7 +145,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
   </div>
 
 
-
 </div>
 
 
