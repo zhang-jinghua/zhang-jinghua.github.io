@@ -131,7 +131,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Haoyang Jiang</strong>
+    <p><strong>Haoyang Jiang</strong><br>Role or Description</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
@@ -144,8 +144,8 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <p><strong>Haoling Liu</strong><br>Role or Description</p>
   </div>
 
-
 </div>
+
 
 
 
