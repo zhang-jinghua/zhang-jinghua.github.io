@@ -186,16 +186,17 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/renyezhang.jpg" alt="Member 2" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Renye Zhang</strong><br>Bachelor Student</p>
+    <img src="images/team/renyezhang.jpg" alt="Renye Zhang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong><a href="https://scholar.google.com/citations?user=lj6viJEAAAAJ&hl=en" target="_blank">Renye Zhang</a></strong><br>Bachelor Student</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/haolingliu.jpg" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <img src="images/team/haolingliu.jpg" alt="Haoling Liu" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
     <p><strong>Haoling Liu</strong><br>Bachelor Student</p>
   </div>
   
 </div>
+
 
 # 🌏 Visitors
 <div style="clear: both; height: 200px; width: 200px; margin: auto; display: block;">
