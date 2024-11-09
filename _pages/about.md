@@ -131,17 +131,22 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Haoyang Jiang</strong><br>Role or Description</p>
+    <p><strong>Haoyang Jiang</strong>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haoyangjiang.png" alt="Member 2" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Member 2</strong><br>Role or Description</p>
+    <p><strong>Renye Zhang</strong><br>Role or Description</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haoyangjiang.png" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Member 3</strong><br>Role or Description</p>
+    <p><strong>Haoling Liu</strong><br>Role or Description</p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.png" alt="Member 4" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Yule Wang</strong><br>Role or Description</p>
   </div>
 
 </div>
