@@ -200,6 +200,17 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <p><strong>Yule Wang</strong><br>Bachelor Student</p>
   </div>
 
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/yulewang.jpg" alt="Yule Wang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Yule Wang</strong><br>Bachelor Student</p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/yulewang.jpg" alt="Yule Wang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Yule Wang</strong><br>Bachelor Student</p>
+  </div>
+
+
 </div>
 
 
