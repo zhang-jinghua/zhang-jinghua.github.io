@@ -127,7 +127,8 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 
 # 👨‍🎓 Team Members
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
   <div style="flex: 1; max-width: 300px; text-align: center;">
     <img src="images/team/haoyangjiang.png" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto;">
@@ -144,11 +145,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <p><strong>Haoyang Jiang</strong>
   </div>
 
-  ;; <div style="flex: 1; max-width: 300px; text-align: center;">
-  ;;   <img src="images/jinghua.jpeg" alt="学生姓名" style="width: 100%; max-width: 150px; height: auto;">
-  ;;   <p><strong>学生姓名 (时间)</strong><br>研究方向或项目描述</p>
-  ;; </div>
-
+</div>
 </div>
 
 
