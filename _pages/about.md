@@ -192,7 +192,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haolingliu.jpg" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Haoling Liu</strong><br>Bachelor Studentn</p>
+    <p><strong>Haoling Liu</strong><br>Bachelor Student</p>
   </div>
   
 </div>
