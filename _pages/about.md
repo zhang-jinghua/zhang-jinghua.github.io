@@ -125,29 +125,6 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - 李晨，<ins>张敬华</ins>，李宏，<strong>基于卷积神经网络mU-B1-Net的环境微生物品微图像分割软件V1.0</strong>, 2019SR1130829, <a href='softwareCopyright/2019SR1130829.png'>[已登记]</a> 
 - 李晨，<ins>张敬华</ins>，<strong>睿仟基于多模型迁移学习的宫颈癌细胞分类软件[简称：宫颈癌细胞分类软件]V1.0.0</strong>, 2020SR1250001, <a href='softwareCopyright/2020SR1250001.jpg'>[已登记]</a> 
 
-# 👨‍🎓 Team Members
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
-
-  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/haoyangjiang.jpg" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Haoyang Jiang</strong><br>Bachelor of Engineering</p>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/renyezhang.jpg" alt="Member 2" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Renye Zhang</strong><br>Bachelor Student</p>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/haolingliu.jpg" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
-    <p><strong>Haoling Liu</strong><br>Bachelor Studentn</p>
-  </div>
-
-
-</div>
-
-
 
 
 # 🎖 Honors and Awards
@@ -198,6 +175,27 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 - Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
 - Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
 - Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
+
+# 👨‍🎓 Team Members
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.jpg" alt="Haoyang Jiang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Haoyang Jiang</strong><br>Bachelor of Engineering</p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/renyezhang.jpg" alt="Member 2" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Renye Zhang</strong><br>Bachelor Student</p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haolingliu.jpg" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Haoling Liu</strong><br>Bachelor Studentn</p>
+  </div>
+  
+</div>
 
 # 🌏 Visitors
 <div style="clear: both; height: 200px; width: 200px; margin: auto; display: block;">
