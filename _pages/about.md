@@ -206,5 +206,5 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Oct. 22, 2024.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Nov. 09, 2024.</a></font></p>
 </div>
