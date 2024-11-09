@@ -199,6 +199,7 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <img src="images/team/yulewang.jpg" alt="Yule Wang" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
     <p><strong>Yule Wang</strong><br>Bachelor Student</p>
   </div>
+  
 
 </div>
 
