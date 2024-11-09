@@ -144,6 +144,11 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
     <p><strong>Haoling Liu</strong><br>Role or Description</p>
   </div>
 
+  <div style="flex: 1; min-width: 150px; max-width: 150px; margin: 10px; text-align: center;">
+    <img src="images/team/haolingliu.png" alt="Member 3" style="width: 100%; max-width: 150px; height: auto; border-radius: 50%;">
+    <p><strong>Haoling Liu</strong><br>Role or Description</p>
+  </div>
+
 </div>
 
 
