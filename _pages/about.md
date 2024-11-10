@@ -76,7 +76,6 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
