@@ -33,7 +33,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 # 📝 Publications 
 (* corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/PIC1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition](https://arxiv.org/abs/2304.11959)
