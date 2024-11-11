@@ -22,10 +22,11 @@ Since September 2021, I have been studying for a Ph.D. degree in Control Science
 In addition, from 2022 to 2024, I worked as a visiting researcher collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a> at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland. Before that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
+- 2024/11/11: &nbsp;✨✨✨ One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems. 
 - 2024/09/08: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
-- 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+- 2024/03/18: &ßnbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 - 2022/06/02: &nbsp;🎊🎊🎊 Awarded the <a href="https://mp.weixin.qq.com/s?__biz=MzA4NzIwNjIzMg==&mid=2651039709&idx=1&sn=6ebc435a873515372859a67bfe8b56cc&chksm=8bcbf7eabcbc7efcaa0c8c4a138124d693a9cdc89a76fe4c7f0eb6c9067021d3f23608117c7d&scene=27">Outstanding Master's Thesis of Liaoning Province. 
 - 2021/12/20: &nbsp;✨✨✨ Awarded the <a href="http://www.bmie.neu.edu.cn/2021/1220/c563a208664/page.htm">Outstanding Master's Thesis of Northeastern University. 
 
@@ -99,6 +100,19 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 [<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
 [<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition](https://ieeexplore.ieee.org/document/10684127)
+
+<ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu <br />
+ in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024 <br />
+[<a href='papers/TNNLS2024/manuscript.pdf'>Paper</a>]
+[<a href="papers/TNNLS2024/555.bib">Bibtex</a>]
 
 </div>
 </div>
