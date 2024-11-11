@@ -26,7 +26,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 - 2024/09/08: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
-- 2024/03/18: &ßnbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+- 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 - 2022/06/02: &nbsp;🎊🎊🎊 Awarded the <a href="https://mp.weixin.qq.com/s?__biz=MzA4NzIwNjIzMg==&mid=2651039709&idx=1&sn=6ebc435a873515372859a67bfe8b56cc&chksm=8bcbf7eabcbc7efcaa0c8c4a138124d693a9cdc89a76fe4c7f0eb6c9067021d3f23608117c7d&scene=27">Outstanding Master's Thesis of Liaoning Province. 
 - 2021/12/20: &nbsp;✨✨✨ Awarded the <a href="http://www.bmie.neu.edu.cn/2021/1220/c563a208664/page.htm">Outstanding Master's Thesis of Northeastern University. 
 
