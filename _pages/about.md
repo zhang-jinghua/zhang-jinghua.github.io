@@ -33,16 +33,58 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 # 📝 Publications 
 (* corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/4621403)
+[A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition](https://ieeexplore.ieee.org/document/10684127)
 
-<ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
-  in <i>BioMed Research International</i>, 2020 <br />
-[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
-[<a href="papers/BMRI2020/555.bib">Bibtex</a>]
-[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
+<ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu <br />
+ in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024 <br />
+[<a href='papers/TNNLS2024/manuscript.pdf'>Paper</a>]
+[<a href="papers/TNNLS2024/555.bib">Bibtex</a>]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Class-incremental Learning for Retinal Disease Recognition](https://ieeexplore.ieee.org/document/10684127)
+
+<ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
+[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
+[<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning for Liver Cancer Histopathology Image Analysis: A Comprehensive Survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197624005943)
+
+Haoyang Jiang, Yimin Yin, <ins>Jinghua Zhang</ins>*, Wanxia Deng, Chen Li<br />
+in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
+[<a href="papers/EAAI2024/Paper.pdf">Paper</a>]
+[<a href="papers/EAAI2024/S0952197624005943.bib">Bibtex</a>]
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIRE 2022</div><img src='papers/AIRE2022/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://link.springer.com/article/10.1007/s10462-022-10192-7)
+
+<ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek<br />
+in <i>Artificial Intelligence Review</i>, 2022.<br />
+[<a href="papers/AIRE2022/2022-Artificial Intelligence Review-Applications of artificial neural networks in microorganism.pdf">Paper</a>]
+[<a href="papers/AIRE2022/1111.bib">Bibtex</a>]
+[<a href="papers/AIRE2022/highcite.jpg">ESI Hot Paper and Highly Cited Paper</a>]
 
 </div>
 </div>
@@ -62,64 +104,23 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIRE 2022</div><img src='papers/AIRE2022/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMRI 2020</div><img src='papers/BMRI2020/overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer](https://link.springer.com/article/10.1007/s10462-022-10192-7)
+[A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2020/4621403)
 
-<ins>Jinghua Zhang</ins>, Chen Li, Yimin Yin, Jiawei Zhang, Marcin Grzegorzek<br />
-in <i>Artificial Intelligence Review</i>, 2022.<br />
-[<a href="papers/AIRE2022/2022-Artificial Intelligence Review-Applications of artificial neural networks in microorganism.pdf">Paper</a>]
-[<a href="papers/AIRE2022/1111.bib">Bibtex</a>]
-[<a href="papers/AIRE2022/highcite.jpg">ESI Hot Paper and Highly Cited Paper</a>]
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Learning for Liver Cancer Histopathology Image Analysis: A Comprehensive Survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197624005943)
-
-Haoyang Jiang, Yimin Yin, <ins>Jinghua Zhang</ins>*, Wanxia Deng, Chen Li<br />
-in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
-[<a href="papers/EAAI2024/Paper.pdf">Paper</a>]
-[<a href="papers/EAAI2024/S0952197624005943.bib">Bibtex</a>]
+<ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
+  in <i>BioMed Research International</i>, 2020 <br />
+[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
+[<a href="papers/BMRI2020/555.bib">Bibtex</a>]
+[<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Few-shot Class-incremental Learning for Retinal Disease Recognition](https://ieeexplore.ieee.org/document/10684127)
-
-<ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
- in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
-[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
-[<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition](https://ieeexplore.ieee.org/document/10684127)
-
-<ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu <br />
- in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024 <br />
-[<a href='papers/TNNLS2024/manuscript.pdf'>Paper</a>]
-[<a href="papers/TNNLS2024/555.bib">Bibtex</a>]
-
-</div>
-</div>
 
 # 📌 Papers under Review
  - <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu, <strong>Few-shot Class-incremental Learning: A Survey</strong>, IEEE TPAMI, Major Revision
- - <ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu, <strong>A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition</strong>, IEEE TNNLS,  Major Revision
  - <ins>Jinghua Zhang</ins>,  Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
  - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Under Review
  - Yimin Yin, Siliang He, Renye Zhang, Hongli Chang, <ins>Jinghua Zhang</ins>*, <strong>Deep Learning for Iris Recognition: A Review</strong>, NCAA, Major Revision
@@ -226,5 +227,5 @@ in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Nov. 09, 2024.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Nov. 11, 2024.</a></font></p>
 </div>
