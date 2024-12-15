@@ -142,7 +142,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
 # 🎖 Honors and Awards
-- 2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a> 
+;; - 2022/07/12: <a href="contests/CSC.png">Scholarship funded by China Scholarship Council</a> 
 - 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
 - 2021/12/20: <a href="contests/NEU.jpeg">Outstanding Master's Thesis of Northeastern University</a> 
 - 2021/12/01: <a href="contests/nudt.jpg">Excellent Freshmen Scholarship of NUDT (1st Class)</a> 
