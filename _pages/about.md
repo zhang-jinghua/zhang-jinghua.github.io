@@ -175,6 +175,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
 - Reviewer of Biomedical Technology <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Expert Systems With Applications <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
 - Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
@@ -226,5 +227,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Dec. 12, 2024.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 01, 2025.</a></font></p>
 </div>
