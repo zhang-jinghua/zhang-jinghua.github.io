@@ -22,6 +22,7 @@ Since September 2021, I have been studying for a Ph.D. degree in Control Science
 In addition, from 2022 to 2024, I worked as a visiting researcher collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a> at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland. Before that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
+- 2025/01/08: &nbsp;✨✨✨ One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 2024/11/11: &nbsp;✨✨✨ One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems. 
 - 2024/09/08: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
@@ -33,6 +34,21 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 # 📝 Publications 
 (* corresponding author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='papers/TPAMI2025/PIC1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-shot Class-incremental Learning for Classification and Object Detection: A Survey](https://arxiv.org/abs/2308.06764)
+
+<ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu <br />
+ in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025 <br />
+[<a href='papers/TPAMI2025/paper.pdf'>Paper</a>]
+[<a href="papers/TPAMI2025/555.bib">Bibtex</a>]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='papers/TNNLS2024/PIC1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,7 +136,6 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
 # 📌 Papers under Review
- - <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu, <strong>Few-shot Class-incremental Learning: A Survey</strong>, IEEE TPAMI, Major Revision
  - <ins>Jinghua Zhang</ins>, Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
  - <ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, and Huiling Chen, <strong>WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition</strong>, IEEE JBHI, Under Review
  - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Minor Revision
@@ -229,5 +244,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 04, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 08, 2025.</a></font></p>
 </div>
