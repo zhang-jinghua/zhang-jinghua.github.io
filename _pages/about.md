@@ -39,7 +39,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='papers/TPAMI2025/PIC1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-shot Class-incremental Learning for Classification and Object Detection: A Survey](https://arxiv.org/abs/2308.06764)
+[Few-shot Class-incremental Learning for Classification and Object Detection: A Survey](https://ieeexplore.ieee.org/document/10840313)
 
 <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu <br />
  in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025 <br />
@@ -245,5 +245,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 08, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 15, 2025.</a></font></p>
 </div>
