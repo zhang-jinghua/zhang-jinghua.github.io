@@ -44,7 +44,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu <br />
  in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025 <br />
 [<a href='papers/TPAMI2025/paper.pdf'>Paper</a>]
-[Collections](https://github.com/zhang-jinghua/Awesome_Few-shot_Class-incremental_learning)
+[<a href="https://github.com/zhang-jinghua/Awesome_Few-shot_Class-incremental_learning">Literature Collection</a>]
 [<a href="papers/TPAMI2025/555.bib">Bibtex</a>]
 
 </div>
