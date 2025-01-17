@@ -246,5 +246,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 17 , 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 17, 2025.</a></font></p>
 </div>
