@@ -209,6 +209,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
 - Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
 - Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
+
 **Conference Reviewer**: CVPR
 
 # 👨‍🎓 Team Members
@@ -248,5 +249,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 17, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 20, 2025.</a></font></p>
 </div>
