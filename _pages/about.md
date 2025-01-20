@@ -181,7 +181,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 🔍 Academic Service
 - **Journal Reviewer**: 
-- Reviewer of The IEEE / CVF Computer Vision and Pattern Recognition Conference <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer ofThe IEEE / CVF Computer Vision and Pattern Recognition Conference <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Multimedia <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
