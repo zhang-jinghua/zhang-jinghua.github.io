@@ -210,7 +210,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
 - Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
 
-**Conference Reviewer**: CVPR
+**Conference Reviewer**: CVPR, IJCNN
 
 # 👨‍🎓 Team Members
 
