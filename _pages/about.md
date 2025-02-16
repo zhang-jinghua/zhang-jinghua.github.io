@@ -23,7 +23,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 
 # 🔥 News
-- 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications,. 
+- 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
 - 2025/01/08: &nbsp;🔥🔥🔥 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 2024/11/11: &nbsp;✨✨✨ One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems. 
 - 2024/09/08: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
