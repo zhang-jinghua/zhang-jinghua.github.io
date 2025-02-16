@@ -140,7 +140,6 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
  - <ins>Jinghua Zhang</ins>, Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
  - <ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, and Huiling Chen, <strong>WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition</strong>, IEEE JBHI, Major Revision
  - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Minor Revision
- - Yimin Yin, Siliang He, Renye Zhang, Hongli Chang, <ins>Jinghua Zhang</ins>*, <strong>Deep Learning for Iris Recognition: A Review</strong>, NCAA, Major Revision
  - Renye Zhang, Yimin Yin, <ins>Jinghua Zhang</ins>*, <strong>Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning</strong>, IEEE SPL, Under Review
 
 # 📄 Patents
