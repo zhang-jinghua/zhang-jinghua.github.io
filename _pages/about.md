@@ -64,6 +64,18 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='papers/JBHI2025/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+
+<ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, Huiling Chen <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 <br />
+[<a href='papers/JBHI2025/paper.pdf'>Paper</a>]
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,18 +91,6 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='papers/JBHI2025/jbhi.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition]
-
-<ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, Huiling Chen <br />
- in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 <br />
-[<a href='papers/JBHI2025/paper.pdf'>Paper</a>]
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='papers/EAAI2024/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
