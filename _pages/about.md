@@ -23,6 +23,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 
 # 🔥 News
+- 2025/03/03: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
 - 2025/01/08: &nbsp;🔥🔥🔥 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - 2024/11/11: &nbsp;✨✨✨ One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems. 
@@ -73,6 +74,19 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
 [<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
 [<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='papers/JBHI2025/jbhi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition]
+
+<ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, Huiling Chen <br />
+ in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 <br />
+[<a href='papers/JBHI2025/paper.pdf'>Paper</a>]
 
 
 </div>
@@ -247,5 +261,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Feb. 15, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 03, 2025.</a></font></p>
 </div>
