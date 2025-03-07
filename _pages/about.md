@@ -129,7 +129,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 <ins>Jinghua Zhang</ins>, Chen Li, Sergey Kosov, Marcin Grzegorzek, Kimiaki Shirahama, Tao Jiang, Changhao Sun, Zihan Li, Hong Li <br />
  in <i>Pattern Recognition</i>, 2021 <br />
-[<a href='papers/PR2021/2021-Pattern Recognition-LCU-Net for EM Segmentation.pdf'>Paper</a>]
+[<a href='papers/PR2021/LCU-Net: A Novel Low-cost U-Net for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
 [<a href="papers/PR2021/S0031320321000728.bib">Bibtex</a>]
 [<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-LCU-Net">Code</a>]
 [<a href="papers/PR2021/highcite.jpg ">ESI Highly Cited Paper</a>]
@@ -144,7 +144,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 <ins>Jinghua Zhang</ins>, Chen Li, Frank Kulwa, Xin Zhao, Changhao Sun, Zihan Li, Tao Jiang, Hong Li, Shouliang Qi <br />
   in <i>BioMed Research International</i>, 2020 <br />
-[<a href='papers/BMRI2020/2020-BioMed Research International-A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
+[<a href='papers/BMRI2020/A Multiscale CNN-CRF Framework for Environmental Microorganism Image Segmentation.pdf'>Paper</a>]
 [<a href="papers/BMRI2020/555.bib">Bibtex</a>]
 [<a href="https://github.com/zhang-jinghua/MIaMIA-Open-Codes-CNN-CRF">Code</a>]
 
