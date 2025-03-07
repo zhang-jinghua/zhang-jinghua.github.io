@@ -43,7 +43,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 <ins>Jinghua Zhang</ins>, Li Liu, Olli Silvén, Matti Pietikäinen, Dewen Hu <br />
  in <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, 2025 <br />
-[<a href='papers/TPAMI2025/paper.pdf'>Paper</a>]
+[<a href='papers/TPAMI2025/Few-shot Class-incremental Learning for Classification and Object Detection: A Survey.pdf'>Paper</a>]
 [<a href="https://github.com/zhang-jinghua/Awesome_Few-shot_Class-incremental_learning">Literature Collection</a>]
 [<a href="papers/TPAMI2025/555.bib">Bibtex</a>]
 
@@ -58,7 +58,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 <ins>Jinghua Zhang</ins>, Li Liu, Kai Gao, Dewen Hu <br />
  in <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024 <br />
-[<a href='papers/TNNLS2024/manuscript.pdf'>Paper</a>]
+[<a href='papers/TNNLS2024/A Forward and Backward Compatible Framework for Few-shot Class-incremental Pill Recognition.pdf'>Paper</a>]
 [<a href="papers/TNNLS2024/555.bib">Bibtex</a>]
 
 </div>
@@ -67,15 +67,17 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='papers/JBHI2025/jbhi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+[WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition](https://ieeexplore.ieee.org/document/10916502)
 
 <ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, Huiling Chen <br />
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2025 <br />
-[<a href='papers/JBHI2025/paper.pdf'>Paper</a>]
+[<a href='papers/JBHI2025/WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition.pdf'>Paper</a>]
+[<a href="papers/JBHI2025/555.bib">Bibtex</a>]
 
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='papers/JBHI2024/jbhi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +86,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 <ins>Jinghua Zhang</ins>, Peng Zhao, Yongkun Zhao, Chen Li, Dewen Hu <br />
  in <i>IEEE Journal of Biomedical and Health Informatics</i>, 2024 <br />
-[<a href='papers/JBHI2024/paper.pdf'>Paper</a>]
+[<a href='papers/JBHI2024/Few-shot Class-incremental Learning for Retinal Disease Recognition.pdf'>Paper</a>]
 [<a href="papers/JBHI2024/jbhi.bib">Bibtex</a>]
 
 
@@ -99,7 +101,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 Haoyang Jiang, Yimin Yin, <ins>Jinghua Zhang</ins>*, Wanxia Deng, Chen Li<br />
 in <i>Engineering Applications of Artificial Intelligence</i>, 2024.<br />
-[<a href="papers/EAAI2024/Paper.pdf">Paper</a>]
+[<a href="papers/EAAI2024/Deep Learning for Liver Cancer Histopathology Image Analysis: A Comprehensive Survey.pdf">Paper</a>]
 [<a href="papers/EAAI2024/S0952197624005943.bib">Bibtex</a>]
 
 </div>
@@ -152,7 +154,6 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 📌 Papers under Review
  - <ins>Jinghua Zhang</ins>, Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
- - <ins>Jinghua Zhang</ins>, Chen Li, Marco Cristani, Hongzan Sun, Marcin Grzegorzek, and Huiling Chen, <strong>WP-FSCIL: A Well-Prepared Few-shot Class-incremental Learning Framework for Pill Recognition</strong>, IEEE JBHI, Major Revision
  - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Minor Revision
  - Renye Zhang, Yimin Yin, <ins>Jinghua Zhang</ins>*, <strong>Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning</strong>, IEEE SPL, Under Review
 
