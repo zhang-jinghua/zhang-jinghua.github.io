@@ -23,6 +23,7 @@ In addition, from 2022 to 2024, I worked as a visiting researcher collaborating 
 
 
 # 🔥 News
+- 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2025/03/03: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
 - 2025/01/08: &nbsp;🔥🔥🔥 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
@@ -262,5 +263,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 07, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 13, 2025.</a></font></p>
 </div>
