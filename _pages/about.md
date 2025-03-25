@@ -195,6 +195,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 🔍 Academic Service
 **Journal Reviewer**: 
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Multimedia <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
@@ -263,5 +264,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 13, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 25, 2025.</a></font></p>
 </div>
