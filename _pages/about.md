@@ -201,6 +201,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of IEEE Access <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Geoscience and Remote Sensing Letters <font color="#A9A9A9">(published by IEEE)</font> 
 - Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font> 
@@ -264,5 +265,5 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 25, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on April 26, 2025.</a></font></p>
 </div>
