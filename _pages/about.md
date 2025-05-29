@@ -18,11 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I obtained my Ph.D. degree in Control Science and Engineering from the College of Intelligence Science and Technology, <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>, in May 2025, under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
-From 2022 to 2024, I worked as a visiting researcher at the <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a>.
-I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021, under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>.
-I will soon join the University of Verona, Italy, to conduct postdoctoral research.
-My research interests include computer vision, pattern recognition, and deep learning.
+I am about to join the University of Verona, Italy, as a postdoctoral researcher. In 2025, I obtained my Ph.D. degree in Control Science and Engineering from the College of Intelligence Science and Technology, <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>, under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
+From 2022 to 2024, I worked as a visiting researcher at the <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, where I collaborated with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a>.
+I received my Master’s degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021, supervised by <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>, and my Bachelor’s degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2017.
+My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
 - 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended my Ph.D. degree. 
