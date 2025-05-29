@@ -18,20 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Since September 2021, I have been studying for a Ph.D. degree in Control Science and Engineering at the College of Intelligence Science and Technology of <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a> under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
-In addition, from 2022 to 2024, I worked as a visiting researcher collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a> at the  <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland. Before that, I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and received my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021 under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>. My research interests include computer vision, pattern recognition, and deep learning.
-
+I obtained my Ph.D. degree in Control Science and Engineering from the College of Intelligence Science and Technology, <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>, in May 2025, under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
+From 2022 to 2024, I worked as a visiting researcher at the <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, collaborating with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a>.
+I received my Bachelor's degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2018 and my Master's degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021, under the supervision of <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>.
+I will soon join the University of Verona, Italy, to conduct postdoctoral research.
+My research interests include computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
-- 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
-- 2025/03/03: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
-- 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
-- 2025/01/08: &nbsp;🔥🔥🔥 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
-- 2024/11/11: &nbsp;✨✨✨ One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems. 
-- 2024/09/08: &nbsp;🎉🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
-- 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper is accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
-- 2024/03/18: &nbsp;🔥🔥🔥 One paper enters the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
-- 2024/03/18: &nbsp;🏆🏆🏆 One paper enters the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
+- 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended my Ph.D. degree. 
+- 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
+- 2025/03/03: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
+- 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
+- 2025/01/08: &nbsp;🔥🔥🔥 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence.
+- 2024/11/11: &nbsp;✨✨✨ One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems. 
+- 2024/09/08: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
+- 2024/04/08: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
+- 2024/03/18: &nbsp;🔥🔥🔥 One paper has been ranked in the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
+- 2024/03/18: &nbsp;🏆🏆🏆 One paper has been ranked in the top 1% of <i>Engineering</i> field (ESI Highly Cited Paper). 
 
 
 # 📝 Publications 
