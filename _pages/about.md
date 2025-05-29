@@ -24,7 +24,7 @@ I received my Master’s degree in Biomedical Engineering from <a href="https://
 My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
-- 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="papers/TPAMI2025/555.bib">my Ph.D. degree. 
+- 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="images/mine/defense.png">my Ph.D. degree. 
 - 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2025/03/03: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
 - 2025/02/15: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://link.springer.com/journal/521">Neural Computing and Applications. 
