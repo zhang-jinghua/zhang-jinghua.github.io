@@ -232,6 +232,8 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 👨‍🎓 Team Members
 
+## Current Members
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
