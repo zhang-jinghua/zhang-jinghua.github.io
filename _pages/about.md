@@ -257,9 +257,31 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
   </div>
 
 </div>
+## Alumni
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
 
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haoyangjiang.jpg" alt="Haoyang Jiang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Haoyang Jiang</strong><br>Bachelor of Engineering</p>
+  </div>
 
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/renyezhang.jpg" alt="Renye Zhang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong><a href="https://scholar.google.com/citations?user=lj6viJEAAAAJ&hl=en" target="_blank">Renye Zhang</a></strong><br>Bachelor Student</p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/haolingliu.jpg" alt="Haoling Liu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Haoling Liu</strong><br>Bachelor Student</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
+    <img src="images/team/yulewang.jpg" alt="Yule Wang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Yule Wang</strong><br>Bachelor Student</p>
+  </div>
+
+</div>
 
 # 🌏 Visitors
 <div style="clear: both; height: 200px; width: 200px; margin: auto; display: block;">
