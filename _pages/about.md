@@ -238,17 +238,17 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/dechaotang.png" alt="Dechao Tang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <img src="images/team/dechaotang.jpg" alt="Dechao Tang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
     <p><strong><a href="https://scholar.google.com/citations?hl=en&user=z_xZSLoAAAAJ" target="_blank">Dechao Tang</a></strong><br>Ph.D. Student, University of Münster</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/uzairkhan.png" alt="Uzair Khan" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <img src="images/team/uzairkhan.jpg" alt="Uzair Khan" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
     <p><strong><a href="https://scholar.google.com/citations?user=PAsg9gsAAAAJ&hl=zh-CN&oi=sra" target="_blank">Uzair Khan</a></strong><br>Ph.D. Student, University of Verona</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/sihangxu.png" alt="Sihang Xu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <img src="images/team/sihangxu.jpg" alt="Sihang Xu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
     <p><strong>Sihang Xu</strong><br>Master Student, Fujian University of Technology</p>
   </div>
   
