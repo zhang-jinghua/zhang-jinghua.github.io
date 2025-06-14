@@ -243,8 +243,8 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/haolingliu.jpg" alt="Haoling Liu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
-    <p><strong>Haoling Liu</strong><br>Bachelor Student</p>
+    <img src="images/team/sihangxu.png" alt="Sihang Xu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <p><strong>Sihang Xu</strong><br>Master Student, Fujian University of Technology</p>
   </div>
   
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
