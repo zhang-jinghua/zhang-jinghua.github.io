@@ -238,7 +238,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/renyezhang.jpg" alt="Dechao Tang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
+    <img src="images/team/dechaotang.png" alt="Dechao Tang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
     <p><strong><a href="https://scholar.google.com/citations?hl=en&user=z_xZSLoAAAAJ" target="_blank">Dechao Tang</a></strong><br>Ph.D. Student, University of Münster</p>
   </div>
 
