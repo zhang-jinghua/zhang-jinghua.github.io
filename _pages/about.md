@@ -244,7 +244,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/uzairkhan.png" alt="Uzair Khan" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
-    <p><strong><a href="https://scholar.google.com/citations?user=PAsg9gsAAAAJ&hl=zh-CN&oi=sra" target="_blank">Uzair Kha</a></strong><br>Ph.D. Student, University of Verona</p>
+    <p><strong><a href="https://scholar.google.com/citations?user=PAsg9gsAAAAJ&hl=zh-CN&oi=sra" target="_blank">Uzair Khan</a></strong><br>Ph.D. Student, University of Verona</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
