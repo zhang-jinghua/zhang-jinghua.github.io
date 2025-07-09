@@ -195,40 +195,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - 2015/10/01: Excellent Student Cadre of HFU 
 
 
-# 🔍 Academic Service
-**Journal Reviewer**: 
-- Reviewer of IEEE Transactions on Neural Networks and Learning Systems <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Multimedia <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Access <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Geoscience and Remote Sensing Letters <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Engineering Applications of Artificial Intelligence <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Intelligent Medicine <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Biomedical Technology <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Expert Systems With Applications <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of Evolving Systems <font color="#A9A9A9">(published by Springer)</font> 	
-- Reviewer of Frontiers in Microbiology <font color="#A9A9A9">(published by Frontiers)</font> 
-- Reviewer of Frontiers in Human Neuroscience <font color="#A9A9A9">(published by Frontiers)</font> 	
-- Reviewer of Frontiers in Psychiatry <font color="#A9A9A9">(published by Frontiers)</font> 	
-- Reviewer of BioMed Research International <font color="#A9A9A9">(published by Hindawi)</font> 
-- Reviewer of Computational and Mathematical Methods in Medicine <font color="#A9A9A9">(published by Hindawi)</font> 	
-- Reviewer of Computational Intelligence and Neuroscience <font color="#A9A9A9">(published by Hindawi)</font> 	
-- Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
-- Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
-- Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
 
-**Conference Reviewer**: CVPR, IJCNN
 
 # 👨‍🎓 Team Members
 
@@ -279,6 +246,43 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
   </div>
 
 </div>
+
+
+# 🔍 Academic Service
+**Journal Reviewer**: 
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Transactions on Multimedia <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Access <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of IEEE Geoscience and Remote Sensing Letters <font color="#A9A9A9">(published by IEEE)</font> 
+- Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Engineering Applications of Artificial Intelligence <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Intelligent Medicine <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
+- Reviewer of Biomedical Technology <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Expert Systems With Applications <font color="#A9A9A9">(published by Elsevier)</font> 
+- Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
+- Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
+- Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
+- Reviewer of Evolving Systems <font color="#A9A9A9">(published by Springer)</font> 	
+- Reviewer of Frontiers in Microbiology <font color="#A9A9A9">(published by Frontiers)</font> 
+- Reviewer of Frontiers in Human Neuroscience <font color="#A9A9A9">(published by Frontiers)</font> 	
+- Reviewer of Frontiers in Psychiatry <font color="#A9A9A9">(published by Frontiers)</font> 	
+- Reviewer of BioMed Research International <font color="#A9A9A9">(published by Hindawi)</font> 
+- Reviewer of Computational and Mathematical Methods in Medicine <font color="#A9A9A9">(published by Hindawi)</font> 	
+- Reviewer of Computational Intelligence and Neuroscience <font color="#A9A9A9">(published by Hindawi)</font> 	
+- Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
+- Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
+- Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
+
+**Conference Reviewer**: CVPR, IJCNN
+
 
 # 🌏 Visitors
 <div style="clear: both; height: 200px; width: 200px; margin: auto; display: block;">
