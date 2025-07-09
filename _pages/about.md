@@ -252,20 +252,9 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 **Journal Reviewer**: 
 - <strong>IEEE</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
-- Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Engineering Applications of Artificial Intelligence <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Intelligent Medicine <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Neurocomputing <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Computers and Electrical Engineering <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Image and Vision Computing <font color="#A9A9A9">(published by Elsevier)</font> 	
-- Reviewer of Biomedical Technology <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Expert Systems With Applications <font color="#A9A9A9">(published by Elsevier)</font> 
-- Reviewer of Artificial Intelligence Review <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of Neural Computing and Applications <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of The Visual Computer <font color="#A9A9A9">(published by Springer)</font> 
-- Reviewer of Evolving Systems <font color="#A9A9A9">(published by Springer)</font> 	
+- <strong>Elsevier</strong>: Pattern Recognition, Pattern Recognition Letters, Computers in Biology and Medicine, Engineering Applications of Artificial Intelligence, Intelligent Medicine, Neurocomputing,
+Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
+- <strong>Springer</strong>: Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
 - Reviewer of Frontiers in Microbiology <font color="#A9A9A9">(published by Frontiers)</font> 
 - Reviewer of Frontiers in Human Neuroscience <font color="#A9A9A9">(published by Frontiers)</font> 	
 - Reviewer of Frontiers in Psychiatry <font color="#A9A9A9">(published by Frontiers)</font> 	
