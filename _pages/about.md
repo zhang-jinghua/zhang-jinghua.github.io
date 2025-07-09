@@ -193,7 +193,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
   
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
     <img src="images/team/haoyangjiang.jpg" alt="Haoyang Jiang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
-    <p><strong>Haoyang Jiang</strong><br>Bachelor of Engineering, Yantai Institute of Science and Technology</p>
+    <p><strong>Haoyang Jiang</strong><br>B.E., Yantai Institute of Science and Technology</p>
   </div>
 
   <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
