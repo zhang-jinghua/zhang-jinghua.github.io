@@ -250,5 +250,5 @@ Computational Intelligence and Neuroscience, Mathematical Biosciences and Engine
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on June 14, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 9, 2025.</a></font></p>
 </div>
