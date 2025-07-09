@@ -250,13 +250,8 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 🔍 Academic Service
 **Journal Reviewer**: 
-- Reviewer of IEEE Transactions on Neural Networks and Learning Systems <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Multimedia <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Geoscience and Remote Sensing <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Journal of Biomedical and Health Informatics <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Access <font color="#A9A9A9">(published by IEEE)</font> 
-- Reviewer of IEEE Geoscience and Remote Sensing Letters <font color="#A9A9A9">(published by IEEE)</font> 
+- IEEE: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
+IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
 - Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Computers in Biology and Medicine <font color="#A9A9A9">(published by Elsevier)</font> 
