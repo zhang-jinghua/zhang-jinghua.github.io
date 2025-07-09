@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-In 2025, I obtained my Ph.D. degree in Control Science and Engineering from the College of Intelligence Science and Technology, <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>, under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
+I am about to join Hohai University as an Assistant Professor. In 2025, I obtained my Ph.D. degree in Control Science and Engineering from the College of Intelligence Science and Technology, <a href="https://www.nudt.edu.cn/">National University of Defense Technology (NUDT)</a>, under the supervision of <a href="http://www.cogsci.org.cn/org/dwhu.shtml">Prof. Dewen Hu</a> and <a href="https://scholar.google.com/citations?user=9cMQrVsAAAAJ&hl=en">Prof. Li Liu</a>.
 From 2022 to 2024, I worked as a visiting researcher at the <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis">Center for Machine Vision and Signal Analysis</a>, <a href="https://www.oulu.fi/en">University of Oulu</a>, Finland, where I collaborated with <a href="https://scholar.google.com/citations?user=bjEpXBoAAAAJ&hl=en">Prof. Matti Pietikäinen</a> and <a href="https://scholar.google.com/citations?user=d2cdbQIAAAAJ&hl=en">Prof. Olli Silven</a>.
 I received my Master’s degree in Biomedical Engineering from <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in 2021, supervised by <a href="https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en">Prof. Chen Li</a>, and my Bachelor’s degree in Automation from <a href="https://www.hfuu.edu.cn/">Hefei University (HFU)</a> in 2017.
 My research interests focus on computer vision, pattern recognition, and deep learning.
@@ -206,7 +206,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 ## Alumni
 
 - <a href="https://scholar.google.com/citations?user=lj6viJEAAAAJ&hl=en">Renye Zhang</a>, Bachelor of Engineering, Hunan First Normal University
-- Haoling Liu, Bachelor of Engineering, Hunan First Normal University
+- Haoling Liu, China Mobile
 - Yule Wang, Master Student, Nanjing University of Aeronautics and Astronautics
 
 # 🎖 Honors and Awards
