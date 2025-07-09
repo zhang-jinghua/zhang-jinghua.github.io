@@ -206,23 +206,8 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 ## Alumni
 
 - <a href="https://scholar.google.com/citations?user=lj6viJEAAAAJ&hl=en">Renye Zhang</a>, Bachelor of Engineering, Hunan First Normal University
-
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-bottom: 20px;">
-
-
-  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/haolingliu.jpg" alt="Haoling Liu" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
-    <p><strong>Haoling Liu</strong><br>Bachelor of Engineering, Hunan First Normal University</p>
-  </div>
-  
-  <div style="flex: 1; min-width: 150px; max-width: 200px; margin: 10px; text-align: center;">
-    <img src="images/team/yulewang.jpg" alt="Yule Wang" style="width: 100%; max-width: 100px; height: auto; border-radius: 50%; border: 2px solid #eee;">
-    <p><strong>Yule Wang</strong><br>Master Student, Nanjing University of Aeronautics and Astronautics</p>
-  </div>
-
-</div>
+- Haoling Liu, Bachelor of Engineering, Hunan First Normal University
+- Yule Wang, Master Student, Nanjing University of Aeronautics and Astronautics
 
 # 🎖 Honors and Awards
 - 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
