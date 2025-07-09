@@ -250,7 +250,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 🔍 Academic Service
 **Journal Reviewer**: 
-- IEEE: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
+- <strong>IEEE</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
 - Reviewer of Pattern Recognition <font color="#A9A9A9">(published by Elsevier)</font> 
 - Reviewer of Pattern Recognition Letters <font color="#A9A9A9">(published by Elsevier)</font> 
