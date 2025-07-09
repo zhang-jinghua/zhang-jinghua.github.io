@@ -255,15 +255,8 @@ IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience 
 - <strong>Elsevier</strong>: Pattern Recognition, Pattern Recognition Letters, Computers in Biology and Medicine, Engineering Applications of Artificial Intelligence, Intelligent Medicine, Neurocomputing,
 Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
 - <strong>Springer</strong>: Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
-- Reviewer of Frontiers in Microbiology <font color="#A9A9A9">(published by Frontiers)</font> 
-- Reviewer of Frontiers in Human Neuroscience <font color="#A9A9A9">(published by Frontiers)</font> 	
-- Reviewer of Frontiers in Psychiatry <font color="#A9A9A9">(published by Frontiers)</font> 	
-- Reviewer of BioMed Research International <font color="#A9A9A9">(published by Hindawi)</font> 
-- Reviewer of Computational and Mathematical Methods in Medicine <font color="#A9A9A9">(published by Hindawi)</font> 	
-- Reviewer of Computational Intelligence and Neuroscience <font color="#A9A9A9">(published by Hindawi)</font> 	
-- Reviewer of Mathematical Biosciences and Engineering <font color="#A9A9A9">(published by AIMS Press)</font> 	
-- Reviewer of CMES-Computer Modeling in Engineering and Sciences <font color="#A9A9A9">(published by Tech Science Press)</font> 	
-- Reviewer of Biomedical Engineering / Biomedizinische Technik <font color="#A9A9A9">(published by De Gruyter)</font> 
+- <strong>Others</strong>: Frontiers in Microbiology, Frontiers in Human Neuroscience, Frontiers in Psychiatry, BioMed Research International, Computational and Mathematical Methods in Medicine,
+Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik
 
 **Conference Reviewer**: CVPR, IJCNN
 
