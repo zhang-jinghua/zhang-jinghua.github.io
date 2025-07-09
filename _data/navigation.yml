@@ -16,14 +16,16 @@ main:
   - title: "Software Copyrights"
     url: "/#-software-copyrights"
 
+  - title: "Team Members"
+    url: "/#-team-members"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Academic Service"
     url: "/#-academic-service"
 
-  - title: "Team Members"
-    url: "/#-team-members"
+
 
   - title: "Visitors"
     url: "/#-visitors"

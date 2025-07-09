@@ -175,28 +175,6 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
 
-# 🎖 Honors and Awards
-- 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
-- 2021/12/20: <a href="contests/NEU.jpeg">Outstanding Master's Thesis of Northeastern University</a> 
-- 2021/12/01: <a href="contests/nudt.jpg">Excellent Freshmen Scholarship of NUDT (1st Class)</a> 
-- 2021/01/11: <a href="contests/NEU6.jpg">Outstanding Graduate of NEU</a> 
-- 2020/12/25: <a href="contests/SUZHOU.jpg">Suzhou Industrial Park Scholarship</a> 
-- 2020/11/01: <a href="contests/NEU5.jpg">Merit Student of NEU</a> 
-- 2020/10/01: <a href="contests/NEU3.jpg">The First Prize Scholarship of NEU</a> 
-- 2019/10/01: <a href="contests/NEU4.jpg">The First Prize Scholarship of NEU</a> 
-- 2018/05/01: <a href="contests/HFU1.jpg">Outstanding Graduate of HFU</a> 
-- 2018/04/01: <a href="contests/HFU2.jpg">Outstanding Graduate of Anhui Province</a> 
-- 2017/12/01: <a href="contests/HFU3.jpg">The First Prize Scholarship of HFU</a> 
-- 2017/12/01: Merit Student of HFU 
-- 2016/12/01: Excellent Student Cadre of HFU 
-- 2016/12/01: Merit Student of HFU 
-- 2016/11/01: <a href="contests/HFU4.jpg">National Encouragement Scholarship</a> 
-- 2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a> 
-- 2015/10/01: Excellent Student Cadre of HFU 
-
-
-
-
 # 👨‍🎓 Team Members
 
 ## Current Members
@@ -247,6 +225,25 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 </div>
 
+# 🎖 Honors and Awards
+- 2022/06/02: <a href="contests/liaoning.jpg">Outstanding Master's Thesis of Liaoning Province</a> 
+- 2021/12/20: <a href="contests/NEU.jpeg">Outstanding Master's Thesis of Northeastern University</a> 
+- 2021/12/01: <a href="contests/nudt.jpg">Excellent Freshmen Scholarship of NUDT (1st Class)</a> 
+- 2021/01/11: <a href="contests/NEU6.jpg">Outstanding Graduate of NEU</a> 
+- 2020/12/25: <a href="contests/SUZHOU.jpg">Suzhou Industrial Park Scholarship</a> 
+- 2020/11/01: <a href="contests/NEU5.jpg">Merit Student of NEU</a> 
+- 2020/10/01: <a href="contests/NEU3.jpg">The First Prize Scholarship of NEU</a> 
+- 2019/10/01: <a href="contests/NEU4.jpg">The First Prize Scholarship of NEU</a> 
+- 2018/05/01: <a href="contests/HFU1.jpg">Outstanding Graduate of HFU</a> 
+- 2018/04/01: <a href="contests/HFU2.jpg">Outstanding Graduate of Anhui Province</a> 
+- 2017/12/01: <a href="contests/HFU3.jpg">The First Prize Scholarship of HFU</a> 
+- 2017/12/01: Merit Student of HFU 
+- 2016/12/01: Excellent Student Cadre of HFU 
+- 2016/12/01: Merit Student of HFU 
+- 2016/11/01: <a href="contests/HFU4.jpg">National Encouragement Scholarship</a> 
+- 2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a> 
+- 2015/10/01: Excellent Student Cadre of HFU 
+
 
 # 🔍 Academic Service
 **Journal Reviewer**: 
@@ -259,6 +256,8 @@ Computers and Electrical Engineering, Image and Vision Computing, Biomedical Tec
 Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik
 
 **Conference Reviewer**: CVPR, IJCNN
+
+
 
 
 # 🌏 Visitors
