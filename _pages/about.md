@@ -157,8 +157,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 # 📌 Papers under Review
  - <ins>Jinghua Zhang</ins>, Yimin Yin, Haoling Liu, Dewen Hu, <strong>BiCFF: Bidirectional-compatible Fine-grained Framework for Few-shot Class-incremental Learning</strong>, EAAI, Under Review
- - Yimin Yin, Renye Zhang, Pengfei Liu, Wanxia Deng, Siliang He, Chen Li, <ins>Jinghua Zhang</ins>*, <strong>Artificial Neural Networks for Finger Vein Recognition: A Survey</strong>, EAAI, Minor Revision
- - Renye Zhang, Yimin Yin, <ins>Jinghua Zhang</ins>*, <strong>Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning</strong>, IEEE SPL, Under Review
+ - Renye Zhang, Yimin Yin, <ins>Jinghua Zhang</ins>*, <strong>Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning</strong>, EAAI, Under Review
 
 # 📄 Patents
  - 李晨，<ins>张敬华</ins>，李宏，<strong>一种多尺度串行的卷积深度学习显微图像分割方法</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
