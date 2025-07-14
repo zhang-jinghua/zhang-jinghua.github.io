@@ -235,7 +235,7 @@ IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience 
 Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
 - <strong>Springer</strong>: Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
 - <strong>Others</strong>: Frontiers in Microbiology, Frontiers in Human Neuroscience, Frontiers in Psychiatry, BioMed Research International, Computational and Mathematical Methods in Medicine,
-Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik
+Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik, International Journal of Biomedical Imaging
 
 **Conference Reviewer**: CVPR, IJCNN
 
