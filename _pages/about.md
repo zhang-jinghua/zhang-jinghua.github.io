@@ -230,7 +230,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 # 🔍 Academic Service
 **Journal Reviewer**: 
 - <strong>IEEE</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
-IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
+IEEE Transactions on Cognitive and Developmental Systems, IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
 - <strong>Elsevier</strong>: Pattern Recognition, Pattern Recognition Letters, Computers in Biology and Medicine, Engineering Applications of Artificial Intelligence, Intelligent Medicine, Neurocomputing,
 Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
 - <strong>Springer</strong>: Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
@@ -248,5 +248,5 @@ Computational Intelligence and Neuroscience, Mathematical Biosciences and Engine
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 9, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 15, 2025.</a></font></p>
 </div>
