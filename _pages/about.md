@@ -233,7 +233,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 IEEE Transactions on Cognitive and Developmental Systems, IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
 - <strong>Elsevier</strong>: Pattern Recognition, Pattern Recognition Letters, Computers in Biology and Medicine, Engineering Applications of Artificial Intelligence, Intelligent Medicine, Neurocomputing,
 Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
-- <strong>Springer</strong>: Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
+- <strong>Springer</strong>: International Journal of Computer Vision, Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
 - <strong>Others</strong>: Frontiers in Artificial Intelligence, Frontiers in Microbiology, Frontiers in Human Neuroscience, Frontiers in Psychiatry, BioMed Research International, Computational and Mathematical Methods in Medicine,
 Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik, International Journal of Biomedical Imaging
 
@@ -248,5 +248,5 @@ Computational Intelligence and Neuroscience, Mathematical Biosciences and Engine
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 20, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 25, 2025.</a></font></p>
 </div>
