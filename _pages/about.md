@@ -228,6 +228,10 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
 # 🔍 Academic Service
+**Journal Editor**: Frontiers in Microbiology (Special Issue)
+
+**Conference Chair**: MVIPIT 2025
+
 **Journal Reviewer**: 
 - <strong>IEEE</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Transactions on Cognitive and Developmental Systems, IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
@@ -248,5 +252,5 @@ Computational Intelligence and Neuroscience, Mathematical Biosciences and Engine
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 25, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 31, 2025.</a></font></p>
 </div>
