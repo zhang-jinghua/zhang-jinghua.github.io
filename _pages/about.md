@@ -23,7 +23,7 @@ I received my Master’s degree in Biomedical Engineering from <a href="https://
 My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
-- 2025/05/25: &nbsp;🎓🎓🎓 We are organizing a special issue titled "<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">Artificial Intelligence in Microbial and Microscopic Analysis</a>" in Frontiers in Microbiology. Submissions are welcome.
+- 2025/05/25: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.frontiersin.org/research-topics/72347/artificial-intelligence-in-microbial-and-microscopic-analysis">Artificial Intelligence in Microbial and Microscopic Analysis</a>", in Frontiers in Microbiology.
 - 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="images/mine/defense.png">my Ph.D. degree. 
 - 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2025/03/03: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
@@ -252,5 +252,5 @@ Computational Intelligence and Neuroscience, Mathematical Biosciences and Engine
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on July 31, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Aug. 20, 2025.</a></font></p>
 </div>
