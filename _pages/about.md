@@ -23,7 +23,7 @@ I received my Master’s degree in Biomedical Engineering from <a href="https://
 My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
-- 2025/05/25: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.frontiersin.org/research-topics/72347/artificial-intelligence-in-microbial-and-microscopic-analysis">Artificial Intelligence in Microbial and Microscopic Analysis</a>", in Frontiers in Microbiology.
+- 2025/07/30: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.frontiersin.org/research-topics/72347/artificial-intelligence-in-microbial-and-microscopic-analysis">Artificial Intelligence in Microbial and Microscopic Analysis</a>", in Frontiers in Microbiology.
 - 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="images/mine/defense.png">my Ph.D. degree. 
 - 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2025/03/03: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
@@ -228,7 +228,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 
 
 # 🔍 Academic Service
-**Journal Editor**: Frontiers in Microbiology (Special Issue)
+**Journal Editor**: Frontiers in Microbiology (Guest Associate Editor)
 
 **Conference Chair**: MVIPIT 2025
 
