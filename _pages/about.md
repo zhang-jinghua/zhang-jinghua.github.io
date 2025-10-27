@@ -236,7 +236,7 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - <strong>IEEE</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Circuits and Systems for Video Technology,
 IEEE Transactions on Cognitive and Developmental Systems, IEEE Journal of Biomedical and Health Informatics, IEEE Access, IEEE Geoscience and Remote Sensing Letters
 - <strong>Elsevier</strong>: Pattern Recognition, Neural Networks, Knowledge-Based Systems, Pattern Recognition Letters, Computers in Biology and Medicine, Engineering Applications of Artificial Intelligence, Intelligent Medicine,
-Neurocomputing, Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications
+Neurocomputing, Computers and Electrical Engineering, Image and Vision Computing, Biomedical Technology, Expert Systems With Applications, Electric Power Systems Research
 - <strong>Springer</strong>: International Journal of Computer Vision, Artificial Intelligence Review, Neural Computing and Applications, The Visual Computer, Evolving Systems
 - <strong>Others</strong>: Frontiers in Artificial Intelligence, Frontiers in Computer Science, Frontiers in Microbiology, Frontiers in Human Neuroscience, Frontiers in Psychiatry, Frontiers in Oncology, BioMed Research International,
 Computational and Mathematical Methods in Medicine, Computational Intelligence and Neuroscience, Mathematical Biosciences and Engineering, CMES-Computer Modeling in Engineering and Sciences, Biomedical Engineering / Biomedizinische Technik,
