@@ -23,6 +23,7 @@ I received my Master’s degree in Biomedical Engineering from <a href="https://
 My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
+- 2025/12/28: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.mdpi.com/journal/mathematics/special_issues/Mathematical_Methods_ML_Biomedical_Applications">Advanced Mathematical Methods for Machine Learning in Biomedical Applications</a>", in Mathematics.
 - 2025/07/30: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.frontiersin.org/research-topics/72347/artificial-intelligence-in-microbial-and-microscopic-analysis">Artificial Intelligence in Microbial and Microscopic Analysis</a>", in Frontiers in Microbiology.
 - 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="images/mine/defense.png">my Ph.D. degree. 
 - 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
@@ -161,8 +162,9 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 # 📄 Patents
  - 李晨，<ins>张敬华</ins>，李宏，<strong>一种多尺度串行的卷积深度学习显微图像分割方法</strong>, ZL201910533172.8, <a href='patents/1.pdf'>[已授权]</a>
  - 刘丽，徐华丽，张雪毅，盛常冲，<ins>张敬华</ins>，陈江明，<strong>基于源域间风格化的跨域小样本分类方法及相关设备</strong>, ZL202210848438.X, <a href='patents/4.pdf'>[已授权]</a>
+ - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已授权]</a>
  - 胡德文，<ins>张敬华</ins>，刘丽，<strong>结构化平面物体识别模型训练及识别方法</strong>, 202310381173.1, <a href='patents/2.pdf'>[已受理]</a>
- - 胡德文，<ins>张敬华</ins>，高凯，刘丽，<strong>结构化平面物体识别模型训练及识别方法、电子设备</strong>, 202310389606.8, <a href='patents/3.pdf'>[已受理]</a>
+
 
 # 💻 Software Copyrights
 - 李晨，<ins>张敬华</ins>，许宁，赵文伟，孙昌浩，<strong>图像预处理教学演示软件V1.0</strong>, 2019SR0102261, <a href='softwareCopyright/2019SR0102261.png'>[已登记]</a> 
@@ -254,5 +256,5 @@ International Journal of Biomedical Imaging
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Oct. 28, 2025.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Jan. 06, 2026.</a></font></p>
 </div>
