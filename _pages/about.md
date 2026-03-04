@@ -218,19 +218,10 @@ in <i>Artificial Intelligence Review</i>, 2022.<br />
 - 2020/11/01: <a href="contests/NEU5.jpg">Merit Student of NEU</a> 
 - 2020/10/01: <a href="contests/NEU3.jpg">The First Prize Scholarship of NEU</a> 
 - 2019/10/01: <a href="contests/NEU4.jpg">The First Prize Scholarship of NEU</a> 
-- 2018/05/01: <a href="contests/HFU1.jpg">Outstanding Graduate of HFU</a> 
-- 2018/04/01: <a href="contests/HFU2.jpg">Outstanding Graduate of Anhui Province</a> 
-- 2017/12/01: <a href="contests/HFU3.jpg">The First Prize Scholarship of HFU</a> 
-- 2017/12/01: Merit Student of HFU 
-- 2016/12/01: Excellent Student Cadre of HFU 
-- 2016/12/01: Merit Student of HFU 
-- 2016/11/01: <a href="contests/HFU4.jpg">National Encouragement Scholarship</a> 
-- 2015/11/20: <a href="contests/HFU5.jpg">The First Prize Scholarship of HFU</a> 
-- 2015/10/01: Excellent Student Cadre of HFU 
 
 
 # 🔍 Academic Service
-**Journal Editor**: Frontiers in Microbiology (Guest Associate Editor)
+**Journal Editor**: Frontiers in Microbiology (Guest Associate Editor), Mathematics (Guest Associate Editor),Cancers (Guest Associate Editor)
 
 **Conference Chair**: MVIPIT 2025
 
@@ -255,5 +246,5 @@ International Journal of Biomedical Imaging
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Feb. 06, 2026.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 04, 2026.</a></font></p>
 </div>
