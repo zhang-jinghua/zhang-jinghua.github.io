@@ -23,8 +23,10 @@ I received my Master’s degree in Biomedical Engineering from <a href="https://
 My research interests focus on computer vision, pattern recognition, and deep learning.
 
 # 🔥 News
+- 2026/05/18: &nbsp;🔥🔥🔥 One paper has been ranked in the top 1‰ of <i>Computer Science</i> field (ESI Hot Paper and Highly Cited Paper). 
+- 2026/05/12: &nbsp;🔬🔬🔬 Submissions are welcome to our new research topic, "<a href="https://www.frontiersin.org/research-topics/80480/artificial-intelligence-for-microbial-systems-and-biomedical-applications">Artificial Intelligence for Microbial Systems and Biomedical Applications</a>", published by Frontiers.
+- 2026/04/30: &nbsp;🏅🏅🏅 My doctoral dissertation was awarded the Outstanding Doctoral Dissertation by the National University of Defense Technology.
 - 2025/12/28: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.mdpi.com/journal/mathematics/special_issues/Mathematical_Methods_ML_Biomedical_Applications">Advanced Mathematical Methods for Machine Learning in Biomedical Applications</a>", in Mathematics.
-- 2025/07/30: &nbsp;🔬🔬🔬 Submissions are welcome to our new special issue, "<a href="https://www.frontiersin.org/research-topics/72347/artificial-intelligence-in-microbial-and-microscopic-analysis">Artificial Intelligence in Microbial and Microscopic Analysis</a>", in Frontiers in Microbiology.
 - 2025/05/25: &nbsp;🎓🎓🎓 I successfully defended <a href="images/mine/defense.png">my Ph.D. degree. 
 - 2025/03/13: &nbsp;🥳🥳🥳 One undergraduate's paper was accepted by <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence. 
 - 2025/03/03: &nbsp;🎉🎉🎉 One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics. 
@@ -48,6 +50,7 @@ My research interests focus on computer vision, pattern recognition, and deep le
 [<a href='papers/TPAMI2025/Few-shot Class-incremental Learning for Classification and Object Detection: A Survey.pdf'>Paper</a>]
 [<a href="https://github.com/zhang-jinghua/Awesome_Few-shot_Class-incremental_learning">Literature Collection</a>]
 [<a href="papers/TPAMI2025/555.bib">Bibtex</a>]
+[<a href="papers/TPAMI2025/hotpaper.png">ESI Hot Paper and Highly Cited Paper</a>]
 
 </div>
 </div>
@@ -246,5 +249,5 @@ International Journal of Biomedical Imaging
 </div>
 
 <div style="clear:both;">
-<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on Mar. 04, 2026.</a></font></p>
+<p align="right"><font size="2"><a href="https://zhang-jinghua.github.io/">Updated on May. 18, 2026.</a></font></p>
 </div>
